@@ -1,0 +1,17 @@
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\bin\Debug\StockPrices.exe.config
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\bin\Debug\StockPrices.exe
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\bin\Debug\StockPrices.pdb
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\obj\Debug\StockPrices.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\obj\Debug\StockPrices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\obj\Debug\StockPrices.exe
+C:\Users\Admin\Source\Repos\StocksPrices\StockPrices\StockPrices\obj\Debug\StockPrices.pdb
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\bin\Debug\StockPrices.exe.config
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\obj\Debug\StockPrices.exe
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\obj\Debug\StockPrices.pdb
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\bin\Debug\StockPrices.exe
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\bin\Debug\StockPrices.pdb
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\StocksPrices\StockPrices\obj\Debug\StockPrices.csprojResolveAssemblyReference.cache
